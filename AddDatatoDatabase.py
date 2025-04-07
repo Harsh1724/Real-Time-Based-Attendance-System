@@ -12,7 +12,7 @@ ref = db.reference('Students')
 data = {
     "321654":
         {
-            "name": "Murtaza Hassan",
+            "name": "harsh Hassan",
             "major": "Robotics",
             "starting_year": 2017,
             "total_attendance": 7,
